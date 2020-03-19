@@ -1,6 +1,6 @@
 # HandGestureControlledCar
 
-youtibe link: https://youtu.be/7PTLW-GChRg
+youtube link: https://youtu.be/7PTLW-GChRg
 
 Car is controoled using hand gesture
 
